@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 })
 
 app.get('/shit', function (req, res) {
-  res.send('shit page:)')
+  res.send('SSSSshit page:)')
 })
 
 app.listen(3000, function () {
